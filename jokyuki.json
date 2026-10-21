@@ -1,6 +1,7 @@
 {
  "work": "承久記",
  "work_id": "jokyuki",
+ "repo": "kumoi-no-fumigura/jokyuki",
  "yomi": "じょうきゅうき",
  "category": "軍記",
  "editions": [
@@ -1708,6 +1709,5 @@
    ],
    "text": "ミ米"
   }
- ],
- "repo": "kumoi-no-fumigura/jokyuki"
+ ]
 }
